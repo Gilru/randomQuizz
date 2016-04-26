@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string-array name="firtname">
+        <item>Gilbert</item>
+        <item>Olivier</item>
+        <item>Alex</item>
+        <item>Maman</item>
+        <item>Joel</item>
+    </string-array>
+</resources>
